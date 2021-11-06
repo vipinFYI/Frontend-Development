@@ -1,0 +1,12 @@
+https://codepen.io/pen/
+https://learn.shayhowe.com/html-css/building-your-first-web-page/
+use validator to check html code
+https://validator.w3.org/   - use validator to check html code
+https://fontawesome.com/
+wave.webaim.org accessibility validation
+Funkify - disablity check
+
+
+
+byethost.com buy host
+cpanel - to make changes
